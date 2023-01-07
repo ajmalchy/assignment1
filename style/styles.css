@@ -3,7 +3,7 @@
     font-family: sans-serif, serif;
 }
 .header{
-   background-image: url(/images/banner/banner3.png); 
+   background-image:url("/images/banner/banner3.png");
    background-repeat: no-repeat;
    height: 808px;
     width: 1600px;
