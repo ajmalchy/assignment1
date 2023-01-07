@@ -3,7 +3,7 @@
     font-family: sans-serif, serif;
 }
 .header{
-   background-image: url("/images/banner/banner3.png");
+   background-image: url("./images/banner/banner3.png");
    background-repeat: no-repeat;
    height: 808px;
     width: 1600px;
@@ -93,7 +93,7 @@
     text-align: center;
 }
 .lower-body-content{
-    background-image: url("/images/watch.png"), url("/images/gradient1.png");
+    background-image: url("./images/watch.png"), url("./images/gradient1.png");
     background-blend-mode: multiply;
     margin-left: 200px;
     margin-right: 200px;
